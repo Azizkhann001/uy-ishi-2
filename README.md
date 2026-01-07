@@ -1,2 +1,2 @@
-# uy-ishi-2
+# uy_ishi2
 uyda ishlash uchun
